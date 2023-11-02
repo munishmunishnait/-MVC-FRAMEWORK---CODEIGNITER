@@ -6,9 +6,9 @@ This is a basic content management app built with CodeIgniter that allows authen
 
 Table of Contents
 
-Getting Started
-Features
-Authors
+1. Getting Started
+2. Features
+3. Authors
 
 Getting Started
 
